@@ -74,4 +74,9 @@ To https://github.com/xgadkob/test.git
 franz@franz-ThinkPad-T61:~/my/Projects-GitHub/xgadkob/test/test$
 
 
+second.txt edited
+
+franz@franz-ThinkPad-T61:~/my/Projects-GitHub/xgadkob/test/test$ git commit -a
+[main a477f39] changed content of second.txt
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
