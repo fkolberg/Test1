@@ -1,3 +1,6 @@
+$ sudo apt install git (for newer systems)
+
+
 franz@franz-ThinkPad-T61:~/my/Projects-GitHub/xgadkob/test$ git clone https://github.com/xgadkob/test.git
 Cloning into 'test'...
 Username for 'https://github.com': xgadkob
