@@ -172,6 +172,13 @@ Updating 95a22dc..a9fca16
 Fast-forward
  first.txt | 1 +
  1 file changed, 1 insertion(+)
+ 
+ 
+franz@franz-ThinkPad-T61:~/my/Projects-GitHub/xgadkob/test/test$ git status
+On branch main
+Your branch is up-to-date with 'origin/main'.
+nothing to commit, working directory clean
+
 
 
 
