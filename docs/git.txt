@@ -3,6 +3,9 @@ $ sudo apt install git (for newer systems)
 $ git config --global user.name "Mariot Tsitoara"
 $ git config --global user.email "mariot.tsitoara@gmail.com"
 
+optional:
+$ git config --global core.editor="nano"
+
 /home/franz/.gitconfig
 
 eclipse:
