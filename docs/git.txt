@@ -114,3 +114,12 @@ To https://github.com/xgadkob/test.git
 franz@franz-ThinkPad-T61:~/my/Projects-GitHub/xgadkob/test/test$ 
 
 
+------------------------------------------------------------------------------------------------------------------
+
+try
+
+git add --all
+git commit -am "<commit message>"
+git push
+
+
